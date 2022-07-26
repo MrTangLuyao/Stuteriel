@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "1",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1-Debug-2cbead791cc88d7e9438.json",
+					"name" : "1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/cygdrive/c/Users/32068/Desktop/\u7f16\u7a0b\u8bfe/\u6e90\u7801\u9879\u76ee\u6587\u4ef6/\u6570\u7ec4\u7ec3\u4e601\u4f5c\u4e1a/cmake-build-debug",
+		"source" : "/cygdrive/c/Users/32068/Desktop/\u7f16\u7a0b\u8bfe/\u6e90\u7801\u9879\u76ee\u6587\u4ef6/\u6570\u7ec4\u7ec3\u4e601\u4f5c\u4e1a"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
