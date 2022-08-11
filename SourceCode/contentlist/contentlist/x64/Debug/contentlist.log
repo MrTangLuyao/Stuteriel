@@ -1,9 +1,2 @@
 ﻿  demo.cpp
-C:\Users\32068\Documents\GitHub\Stuteriel\SourceCode\contentlist\contentlist\struct.hpp(5,12): error C3646: “name”: 未知重写说明符
-C:\Users\32068\Documents\GitHub\Stuteriel\SourceCode\contentlist\contentlist\struct.hpp(5,16): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
-C:\Users\32068\Documents\GitHub\Stuteriel\SourceCode\contentlist\contentlist\struct.hpp(6,12): error C3646: “owner”: 未知重写说明符
-C:\Users\32068\Documents\GitHub\Stuteriel\SourceCode\contentlist\contentlist\struct.hpp(6,17): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
-C:\Users\32068\Documents\GitHub\Stuteriel\SourceCode\contentlist\contentlist\struct.hpp(7,12): error C3646: “ISSN”: 未知重写说明符
-C:\Users\32068\Documents\GitHub\Stuteriel\SourceCode\contentlist\contentlist\struct.hpp(7,16): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
-C:\Users\32068\Documents\GitHub\Stuteriel\SourceCode\contentlist\contentlist\struct.hpp(8,12): error C3646: “otherDetails”: 未知重写说明符
-C:\Users\32068\Documents\GitHub\Stuteriel\SourceCode\contentlist\contentlist\struct.hpp(8,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  contentlist.vcxproj -> C:\Users\32068\Documents\GitHub\Stuteriel\SourceCode\contentlist\contentlist\x64\Debug\contentlist.exe
