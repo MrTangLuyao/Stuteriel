@@ -1,0 +1,9 @@
+﻿  源.cpp
+C:\Users\32068\source\repos\内存四大区\源.cpp(13,7): error C2065: “i”: 未声明的标识符
+C:\Users\32068\source\repos\内存四大区\源.cpp(13,14): error C2065: “i”: 未声明的标识符
+C:\Users\32068\source\repos\内存四大区\源.cpp(13,22): error C2065: “i”: 未声明的标识符
+C:\Users\32068\source\repos\内存四大区\源.cpp(13,25): error C2143: 语法错误: 缺少“;”(在“)”的前面)
+C:\Users\32068\source\repos\内存四大区\源.cpp(13,27): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\32068\source\repos\内存四大区\源.cpp(13,27): error C2143: 语法错误: 缺少“)”(在“{”的前面)
+C:\Users\32068\source\repos\内存四大区\源.cpp(14,8): error C2065: “i”: 未声明的标识符
+C:\Users\32068\source\repos\内存四大区\源.cpp(14,19): error C2065: “i”: 未声明的标识符
