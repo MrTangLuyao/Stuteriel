@@ -1,3 +1,0 @@
-/cygdrive/c/Users/32068/Desktop/编程课/源码项目文件/DreamUcopy/cmake-build-debug/CMakeFiles/DreamUcopy.dir
-/cygdrive/c/Users/32068/Desktop/编程课/源码项目文件/DreamUcopy/cmake-build-debug/CMakeFiles/edit_cache.dir
-/cygdrive/c/Users/32068/Desktop/编程课/源码项目文件/DreamUcopy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
