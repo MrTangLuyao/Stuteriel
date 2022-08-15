@@ -127,8 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="hello面向对象3.cpp" />
     <ClCompile Include="hello面向对象1.cpp" />
     <ClCompile Include="hello面向对象2.cpp" />
+    <ClCompile Include="hello面向对象4.cpp" />
+    <ClCompile Include="hello面向对象5.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
