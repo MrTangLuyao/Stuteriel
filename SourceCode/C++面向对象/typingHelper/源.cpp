@@ -23,7 +23,7 @@ backmenu:
 	switch (menui)
 	{
 	case 's':
-		printWord("奥多利王国与沙伐王国原本是一个王国名叫:");
+		printWord("介绍一下:这是一个游戏的框架?主要是演示这个检测键盘的输入和文字的渐入\n这里换行了吧!");
 		break;
 	case 'e': {
 		printWord("你真的要退出么?press Y to Yes/ N to No");

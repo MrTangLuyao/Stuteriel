@@ -1,6 +1,7 @@
 #include <iostream>
 #include <Windows.h>
 #include <string>
+#define MAX 1000
 using namespace std;
 
 void logo() {
@@ -17,10 +18,11 @@ void logo() {
 }
 
 void printWord(string a) {
-	int len = sizeof(a) / sizeof(char);
+	//int len = sizeof(a) / sizeof(char);
+	int len = MAX;
 	for (int index = 0; index < len; index++) {
 		cout << a[index];
 		Sleep(5);
 	}
-	cout << endl;
+	cout <<endl;
 }
