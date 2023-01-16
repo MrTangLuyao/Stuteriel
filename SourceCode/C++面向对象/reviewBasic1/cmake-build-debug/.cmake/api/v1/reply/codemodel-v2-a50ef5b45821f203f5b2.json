@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "reviewBasic1",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "reviewBasic1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-reviewBasic1-Debug-46f21c49e0cf898eb5fc.json",
+					"name" : "reviewBasic1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/luyaotang/Documents/GitHub/Stuteriel/SourceCode/C++\u9762\u5411\u5bf9\u8c61/reviewBasic1/cmake-build-debug",
+		"source" : "/Users/luyaotang/Documents/GitHub/Stuteriel/SourceCode/C++\u9762\u5411\u5bf9\u8c61/reviewBasic1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "24P",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "24P::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-24P-Debug-6f4d801f57c8ce4c71a9.json",
+					"name" : "24P",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/luyaotang/Documents/GitHub/Stuteriel/SourceCode/C++\u9762\u5411\u5bf9\u8c61/24P/cmake-build-debug",
+		"source" : "/Users/luyaotang/Documents/GitHub/Stuteriel/SourceCode/C++\u9762\u5411\u5bf9\u8c61/24P"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
